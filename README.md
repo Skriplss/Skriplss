@@ -47,49 +47,49 @@ Software Engineer specializing in **Backend Development**, **Machine Learning**,
 
 ## 🔥 Featured Projects
 
-### 🛰️ [Orbital Lab - Satellite Tracking System](https://github.com/yourusername/starshiping-training)
+### 🛰️ [Orbital Lab - Satellite Tracking System](https://github.com/infisble/Starshiping_training)
 Production-ready orbital traffic simulator with TLE propagation and conjunction detection
 - **Tech:** FastAPI, SQLite, SGP4, Streamlit, Docker Compose, CI/CD
 - **Features:** REST API (10+ endpoints), 3D orbit visualization, collision detection, batch TLE processing
 - **Highlights:** Clean architecture, comprehensive testing, ADR documentation, real satellite tracking
 
-### 🚁 [Autonomous Space Drone System](https://github.com/yourusername/drone)
+### 🚁 [Autonomous Space Drone System](https://github.com/Skriplss/drone)
 AI-powered autonomous drone system for space operations with computer vision
 - **Tech:** Python, TensorFlow/PyTorch, OpenCV, ROS
 - **Features:** Computer vision, flight control, AI decision engine, environmental adaptation
 - **Highlights:** Real-time autonomous decisions, space environment simulation, power management
 
-### 🎯 [TaskFlow API](https://github.com/yourusername/taskflow-api)
+### 🎯 [TaskFlow API](https://github.com/Skriplss/taskflow-api)
 Production-ready REST API for task management with JWT authentication
 - **Tech:** FastAPI, PostgreSQL, SQLAlchemy 2.0, Docker, Alembic
 - **Features:** CRUD operations, JWT auth, migrations, pagination, filters
 - **Highlights:** Async operations, clean architecture, 80%+ test coverage, comprehensive CI/CD
 
-### 💓 [PulseBoard Pro](https://github.com/yourusername/pulseboard)
+### 💓 [PulseBoard Pro](https://github.com/Skriplss/pulseboard)
 Real-time monitoring system with interactive dashboards and alerting
 - **Tech:** FastAPI, Streamlit, Prometheus, PostgreSQL, Plotly
 - **Features:** Real-time metrics, system monitoring, business analytics, multi-level alerts
 - **Highlights:** Dependency injection, clean architecture, 2-second updates
 
-### 🤖 [Rails Calibration System (ROS2)](https://github.com/yourusername/rails)
+### 🤖 [Rails Calibration System (ROS2)](https://github.com/Skriplss/rails)
 ROS2-based robotic system for automated sensor calibration with 2D rail movement
 - **Tech:** ROS2 Jammy, Python, RViz visualization
 - **Features:** Autonomous positioning, trajectory planning, safety protocols, Z-axis control
 - **Highlights:** Modular architecture, real-time communication, production robotics
 
-### 🔧 [gConvertor - G-Code to RAPID](https://github.com/yourusername/gconvertor)
+### 🔧 [gConvertor - G-Code to RAPID](https://github.com/Skriplss/gconvertor)
 Desktop tool for converting G-code to RAPID format for robotic 3D printing
 - **Tech:** Python 3.12, wxPython, custom parser
 - **Features:** GUI interface, G-code parsing, RAPID generation, visualization
 - **Highlights:** Industrial automation, robotics integration
 
-### 💰 [Binance P2P Trading Bot](https://github.com/yourusername/investments)
+### 💰 [Binance P2P Trading Bot](https://github.com/Skriplss/investments)
 Automated P2P trading bot with Telegram notifications and profit analysis
 - **Tech:** Python, Binance API, Telegram Bot API
 - **Features:** Real-time monitoring, profitable trade detection, auto-trading, analytics
 - **Highlights:** OOP/SOLID principles, flexible strategies, risk management
 
-### 📊 [Customer Churn Prediction](https://github.com/yourusername/churn-prediction)
+### 📊 [Customer Churn Prediction](https://github.com/Skriplss/churn-prediction)
 ML model for predicting customer churn in telecom with web interface
 - **Tech:** Python, Scikit-learn, Pandas, Streamlit
 - **Features:** EDA, preprocessing, model training, web app for predictions
