@@ -77,7 +77,7 @@ ROS2-based robotic system for automated sensor calibration with 2D rail movement
 - **Features:** Autonomous positioning, trajectory planning, safety protocols, Z-axis control
 - **Highlights:** Modular architecture, real-time communication, production robotics
 
-### 🔧 [gConvertor - G-Code to RAPID](https://github.com/Skriplss/gConvertor)
+### 🔧 [gConvertor - G-Code to RAPID](https://github.com/Skriplss/gConverter)
 Desktop tool for converting G-code to RAPID format for robotic 3D printing
 - **Tech:** Python 3.12, wxPython, custom parser
 - **Features:** GUI interface, G-code parsing, RAPID generation, visualization
