@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm Dmytro - Software Engineer
+# Hello World! I'm Dmytro - Software Engineer
 
 <div align="center">
 
