@@ -53,12 +53,6 @@ Production-ready orbital traffic simulator with TLE propagation and conjunction 
 - **Features:** REST API (10+ endpoints), 3D orbit visualization, collision detection, batch TLE processing
 - **Highlights:** Clean architecture, comprehensive testing, ADR documentation, real satellite tracking
 
-### 🚁 [Autonomous Space Drone System](https://github.com/Skriplss/drone)
-AI-powered autonomous drone system for space operations with computer vision
-- **Tech:** Python, TensorFlow/PyTorch, OpenCV, ROS
-- **Features:** Computer vision, flight control, AI decision engine, environmental adaptation
-- **Highlights:** Real-time autonomous decisions, space environment simulation, power management
-
 ### 🎯 [TaskFlow API](https://github.com/Skriplss/taskflow-api)
 Production-ready REST API for task management with JWT authentication
 - **Tech:** FastAPI, PostgreSQL, SQLAlchemy 2.0, Docker, Alembic
@@ -89,18 +83,10 @@ Automated P2P trading bot with Telegram notifications and profit analysis
 - **Features:** Real-time monitoring, profitable trade detection, auto-trading, analytics
 - **Highlights:** OOP/SOLID principles, flexible strategies, risk management
 
-### 📊 [Customer Churn Prediction](https://github.com/Skriplss/churn-prediction)
-ML model for predicting customer churn in telecom with web interface
-- **Tech:** Python, Scikit-learn, Pandas, Streamlit
-- **Features:** EDA, preprocessing, model training, web app for predictions
-- **Highlights:** End-to-end ML pipeline, data analysis, deployment
-
 ## 🎓 Currently Learning & Exploring
 
 - 🔹 **Advanced Robotics** - ROS2 navigation and SLAM algorithms
-- 🔹 **Space Systems Engineering** - Orbital mechanics and satellite operations
 - 🔹 **Deep Learning** - Computer vision for autonomous systems
-- 🔹 **Microservices Architecture** - Distributed systems and event-driven design
 - 🔹 **Kubernetes** - Container orchestration at scale
 - 🔹 **Real-time Systems** - Low-latency processing and control systems
 
@@ -110,7 +96,6 @@ Seeking opportunities in **Backend Development**, **Machine Learning Engineering
 
 - 💡 **Open to:** Part-time, Contract, Remote
 - 🌍 **Location:** Slovakia (Worldwide remote)
-- 🎯 **Interested in:** FinTech, Space Tech, Autonomous Systems, SaaS Products
 - 📧 **Contact:** [Email](mailto:sabitov04@gmail.com) • [LinkedIn](https://www.linkedin.com/in/dmytro-sabitov-593677367/)
 
 ---
