@@ -77,12 +77,6 @@ Desktop tool for converting G-code to RAPID format for robotic 3D printing
 - **Features:** GUI interface, G-code parsing, RAPID generation, visualization
 - **Highlights:** Industrial automation, robotics integration
 
-### 💰 [Binance P2P Trading Bot](https://github.com/Skriplss/investments)
-Automated P2P trading bot with Telegram notifications and profit analysis
-- **Tech:** Python, Binance API, Telegram Bot API
-- **Features:** Real-time monitoring, profitable trade detection, auto-trading, analytics
-- **Highlights:** OOP/SOLID principles, flexible strategies, risk management
-
 ## 🎓 Currently Learning & Exploring
 
 - 🔹 **Advanced Robotics** - ROS2 navigation and SLAM algorithms
