@@ -45,37 +45,6 @@ Software Engineer specializing in **Backend Development**, **Machine Learning**,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![wxPython](https://img.shields.io/badge/wxPython-DC382D?style=for-the-badge&logo=python&logoColor=white)
 
-## 🔥 Featured Projects
-
-### 🛰️ [Orbital Lab - Satellite Tracking System](https://github.com/infisble/Starshiping_training)
-Production-ready orbital traffic simulator with TLE propagation and conjunction detection
-- **Tech:** FastAPI, SQLite, SGP4, Streamlit, Docker Compose, CI/CD
-- **Features:** REST API (10+ endpoints), 3D orbit visualization, collision detection, batch TLE processing
-- **Highlights:** Clean architecture, comprehensive testing, ADR documentation, real satellite tracking
-
-### 🎯 [TaskFlow API](https://github.com/Skriplss/taskflow-api)
-Production-ready REST API for task management with JWT authentication
-- **Tech:** FastAPI, PostgreSQL, SQLAlchemy 2.0, Docker, Alembic
-- **Features:** CRUD operations, JWT auth, migrations, pagination, filters
-- **Highlights:** Async operations, clean architecture, 80%+ test coverage, comprehensive CI/CD
-
-### 💓 [PulseBoard Pro](https://github.com/Skriplss/pulseboard)
-Real-time monitoring system with interactive dashboards and alerting
-- **Tech:** FastAPI, Streamlit, Prometheus, PostgreSQL, Plotly
-- **Features:** Real-time metrics, system monitoring, business analytics, multi-level alerts
-- **Highlights:** Dependency injection, clean architecture, 2-second updates
-
-### 🤖 [Rails Calibration System (ROS2)](https://github.com/Skriplss/rails)
-ROS2-based robotic system for automated sensor calibration with 2D rail movement
-- **Tech:** ROS2 Jammy, Python, RViz visualization
-- **Features:** Autonomous positioning, trajectory planning, safety protocols, Z-axis control
-- **Highlights:** Modular architecture, real-time communication, production robotics
-
-### 🔧 [gConvertor - G-Code to RAPID](https://github.com/Skriplss/gConverter)
-Desktop tool for converting G-code to RAPID format for robotic 3D printing
-- **Tech:** Python 3.12, wxPython, custom parser
-- **Features:** GUI interface, G-code parsing, RAPID generation, visualization
-- **Highlights:** Industrial automation, robotics integration
 
 ## 🎓 Currently Learning & Exploring
 
