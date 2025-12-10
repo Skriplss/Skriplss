@@ -4,11 +4,11 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 Software Engineer specializing in **Backend Development**, **Machine Learning**, and **Robotics**. I build production-ready systems from RESTful APIs to autonomous control systems, following clean architecture principles.
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Backend & APIs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,6 +21,7 @@ Software Engineer specializing in **Backend Development**, **Machine Learning**,
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SupaBase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Machine Learning & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -38,6 +39,8 @@ Software Engineer specializing in **Backend Development**, **Machine Learning**,
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
 ### Frontend & Visualization
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -45,20 +48,23 @@ Software Engineer specializing in **Backend Development**, **Machine Learning**,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![wxPython](https://img.shields.io/badge/wxPython-DC382D?style=for-the-badge&logo=python&logoColor=white)
 
+### Low Code Platforms
+![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto)
 
-## 🎓 Currently Learning & Exploring
+
+## Currently Learning & Exploring
 
 - 🔹 **Advanced Robotics** - ROS2 navigation and SLAM algorithms
 - 🔹 **Deep Learning** - Computer vision for autonomous systems
 - 🔹 **Kubernetes** - Container orchestration at scale
 - 🔹 **Real-time Systems** - Low-latency processing and control systems
 
-## 💼 Open for Opportunities
+## Open for Opportunities
 
 Seeking opportunities in **Backend Development**, **Machine Learning Engineering**, or **Robotics Software Development** to build impactful systems.
 
-- 💡 **Open to:** Part-time, Contract, Remote
-- 🌍 **Location:** Slovakia (Worldwide remote)
-- 📧 **Contact:** [Email](mailto:sabitov04@gmail.com) • [LinkedIn](https://www.linkedin.com/in/dmytro-sabitov-593677367/)
+-  **Open to:** Part-time, Contract, Remote
+-  **Location:** Slovakia (Worldwide remote)
+-  **Contact:** [Email](mailto:sabitov04@gmail.com) • [LinkedIn](https://www.linkedin.com/in/dmytro-sabitov-593677367/)
 
 ---
