@@ -51,14 +51,6 @@ Software Engineer specializing in **Backend Development**, **Machine Learning**,
 ### Low Code Platforms
 ![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto)
 
-
-## Currently Learning & Exploring
-
-- 🔹 **Advanced Robotics** - ROS2 navigation and SLAM algorithms
-- 🔹 **Deep Learning** - Computer vision for autonomous systems
-- 🔹 **Kubernetes** - Container orchestration at scale
-- 🔹 **Real-time Systems** - Low-latency processing and control systems
-
 ## Open for Opportunities
 
 Seeking opportunities in **Backend Development**, **Machine Learning Engineering**, or **Robotics Software Development** to build impactful systems.
