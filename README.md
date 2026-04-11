@@ -1,12 +1,4 @@
-# Hello World! I'm Dmytro - Software Engineer
-
-<div align="center">
-
-</div>
-
-Software Engineer specializing in **Backend Development**, **Machine Learning**, and **Robotics**. I build production-ready systems from RESTful APIs to autonomous control systems, following clean architecture principles.
-
-## Tech Stack
+# Hello World! I'm Dmytro
 
 ### Frontend & Visualization
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -48,10 +40,6 @@ Software Engineer specializing in **Backend Development**, **Machine Learning**,
 
 ### Low Code Platforms
 ![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto)
-
-
-
-Seeking opportunities in **Backend Development**, **Machine Learning Engineering**, or **Robotics Software Development** to build impactful systems.
 
 -  **Open to:** Part-time, Contract, Remote
 -  **Location:** Slovakia (Worldwide remote)
